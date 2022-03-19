@@ -1,5 +1,19 @@
 # Setup
 
+## See also
+
+[Ids4Sail setup](https://github.com/open-bubyx/4sail-IdentityProvider/blob/develop/IdS4Sail/README.md)
+
+## MongoDB
+
+References:
+
+- https://medium.com/@onufrienkos/github-actions-with-docker-compose-node-js-and-mongodb-d59bf7e20867
+
+run in 4sail folder: `docker-compose up`
+
+## Data seeds
+
 1. initialize IDS4Sail
    1. Upload clean .db (KUDU drag and drop)
    2. Login *install* user
